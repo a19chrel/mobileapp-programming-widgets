@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="this_is_some_random_text">This is some random text.</string>
 </resources>
